@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562915625761",
+    "project_id": "cub-connect",
+    "storage_bucket": "cub-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562915625761:android:707febbcf1b086726d4c60",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvFN337fdzvA6HuAujHqgPn6keAWWvFYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
